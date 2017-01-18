@@ -7,7 +7,6 @@ main {
 }
 
 main .row {
-  margin-bottom: 20px;
 }
 
 nav {
@@ -17,7 +16,6 @@ nav {
 }
 
 .box {
-  height: auto;
   text-align: left;
   border: 1px solid lightgrey;
 
